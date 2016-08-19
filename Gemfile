@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '2.2.2'
+gem 'pg'
+gem 'activerecord'
+gem 'qx', git: 'git://github.com/jayrbolton/ruby-qx.git'
+gem 'pry'
